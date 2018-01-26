@@ -1,0 +1,19 @@
+body{
+    background-color: palevioletred;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+#main{
+    width: 200px;
+    height: 200px;
+}
+
+#fun{
+    color: white;
+}
+
+.jumbotron{
+    color:palevioletred;
+    font-size: 100px;
+}
